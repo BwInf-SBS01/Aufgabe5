@@ -1,0 +1,1 @@
+Aufgabe 5 (Bauernopfer)- Nach einer Spielrunde muss das Programm leider neugestartet werden.
